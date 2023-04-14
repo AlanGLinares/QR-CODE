@@ -4,6 +4,7 @@
 
 body {
   background-color: hsl(212, 45%, 89%);
+  min-height: 100vh;
   display: flex;
   font-family: 'Vollkorn' Helvetica, sans-serif;
   align-items: center;
